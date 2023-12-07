@@ -1,2 +1,4 @@
-# symvue-cms
-Symfony and Vue js cmd
+# SymVue CMS
+Symfony and Vue js cms
+
+under development
